@@ -1,0 +1,20 @@
+,,,,,,
+,,,,,,
+,Priority,Severity,Defect_status,Phase,Retest_count,RCA
+,Please select,Please select,Please select,Please select,Please select,Please select
+,High,Blocker,Assigned to Dev & IT,Sanity Tetsing,0,Code Issue
+,Medium,Critical,Assigned to testing team,UAT,1,API Issue
+,Low,Medium,Assigned to BSG,Regression testing,2,Environment Issue
+,,Low,Assigned to Business,,3,Data Issue
+,,,Closed,,4,Understanding Issue
+,,,,,5,Requirement Issue
+,,,,,6,Technical Issue                                                 
+,,,,,7,Environment Downtime 
+,,,,,8,Others
+,,,,,9,
+,,,,,10,
+,,,,,11,
+,,,,,12,
+,,,,,13,
+,,,,,14,
+,,,,,15,
